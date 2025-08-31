@@ -1,4 +1,7 @@
 # CodeDesignerLite
+v1.06 Changes
+- Corrected bug where the "print" command was not compiling to the correct address when using a custom address format with pnach enabled.
+
 Modern version of Code Designer 2.3(originally created by Gtlcpimp)
 
 [About]
